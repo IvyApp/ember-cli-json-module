@@ -1,0 +1,29 @@
+{
+  "name": "ember-cli-json-module",
+  "version": "0.0.1",
+  "description": "Import JSON files into your ember-cli app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IvyApp/ember-cli-json-module.git"
+  },
+  "keywords": [
+    "ember-addon",
+    "ember",
+    "json",
+    "es6",
+    "modules"
+  ],
+  "author": "Dray Lacy <dray@envylabs.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IvyApp/ember-cli-json-module/issues"
+  },
+  "homepage": "https://github.com/IvyApp/ember-cli-json-module",
+  "devDependencies": {
+    "broccoli-json-module": "0.0.1"
+  }
+}
