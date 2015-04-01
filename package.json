@@ -23,7 +23,8 @@
     "url": "https://github.com/IvyApp/ember-cli-json-module/issues"
   },
   "homepage": "https://github.com/IvyApp/ember-cli-json-module",
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
     "broccoli-json-module": "0.0.1"
   }
 }
