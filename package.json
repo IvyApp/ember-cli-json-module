@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-json-module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Import JSON files into your ember-cli app.",
   "main": "index.js",
   "scripts": {
