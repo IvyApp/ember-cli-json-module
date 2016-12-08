@@ -8,7 +8,7 @@ This addon adds support for importing JSON files into your Ember CLI app, using
 From within your Ember CLI application, run the following:
 
 ```sh
-ember install:addon ember-cli-json-module
+ember install ember-cli-json-module
 ```
 
 Then, any JSON files in either `app` or `tests` will be converted to ES6
